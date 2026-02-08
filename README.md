@@ -1,3 +1,3 @@
 # Detailed Description
 
-This Tableau is designed to view the HR database with various types of visualization tables and plots
+This Tableau Dashboard is designed to view the HR dataset with various types of visualization tables and plots
